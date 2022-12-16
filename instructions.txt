@@ -1,0 +1,35 @@
+Recipe for using git:
+
+Step 1: Clone the repo -
+
+"git clone *INSERT REPO URL*"
+
+This will clone your repo
+
+
+
+Step 2: Adding files to repo -
+
+Locate your repo folder on your computer and drag any FILES you wish to commit to GIT into this folder.
+Once the files have been added use the following command:
+
+"git add *" - This will add NEW files or updated previously committed files to the repo.
+
+If you want to add an individual file to a repo you need to specify its name.
+
+For example - If we want to add this file to the repo and not any other files were working on we must use the following command: 
+
+
+"git add instructions.txt"
+
+
+Step 3: Pushing our code
+
+In order to push our code we must first give it a commit message
+We do this by using the following command:
+
+git commit -m "MESSAGE GOES HERE"
+
+Once we add our commit, we then push!
+
+git push
