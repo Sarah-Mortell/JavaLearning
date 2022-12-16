@@ -38,7 +38,7 @@ git push
 Amending previously made commits:
 
 Step 1: Navigate to our local repo
-Step2: Use the following command to change the GIT MESSAGE
+Step 2: Use the following command to change the GIT MESSAGE
 	"git commit --amend -m "PUT MESSAGE HERE"
 Step 3: Push the changes using the following command:
 	"git push --force"
