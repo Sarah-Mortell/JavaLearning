@@ -6,3 +6,4 @@ Module 2:
 Module 2 contains progrmas related to developing scanners in Java.
 
 
+- **⚡ Module 1: XYZZ**  
