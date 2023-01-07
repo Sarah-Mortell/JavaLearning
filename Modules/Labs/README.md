@@ -5,4 +5,4 @@
 
 **⚡ Module 3 contains programs related to Java Encapsulation and Constructor Creation.**  
 
-** ⚡ Module 4 contains Test for Calculating Wages. **
+**⚡ Module 4 contains Test for Calculating Wages.**
