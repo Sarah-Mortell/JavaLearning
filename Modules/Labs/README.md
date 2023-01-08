@@ -6,3 +6,7 @@
 **⚡ Module 3 contains programs related to Java Encapsulation and Constructor Creation.**  
 
 **⚡ Module 4 contains Test for Calculating Wages.**
+
+**⚡ Module 5 contains Applications that Test and Read Calculations for Selling Products.**
+
+**⚡ Module 6 Lectures Displays Methods Used within Java Coding.**
