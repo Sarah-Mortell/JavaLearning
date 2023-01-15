@@ -7,5 +7,5 @@
 
 **⚡ Module 4 contains Test for Calculating Wages.**
 
-**⚡ Module 5 contains Applications that Test and Read Calculations for Selling Products.**
+**⚡ Module 5 contains Applications that uses Switch and If Statements to Test and Read Calculations for Selling Products.**
 
