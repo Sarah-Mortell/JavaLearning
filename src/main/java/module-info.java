@@ -1,8 +1,8 @@
-module com.example.hellofx {
+module com.example.hello_fx {
     requires javafx.controls;
     requires javafx.fxml;
 
 
-    opens com.example.hellofx to javafx.fxml;
-    exports com.example.hellofx;
+    opens com.example.hello_fx to javafx.fxml;
+    exports com.example.hello_fx;
 }
